@@ -1,3 +1,5 @@
-## GearVRf
+## GearVRf Experimental
 
-### Project details you can find at www.gearvrf.org
+### Experimental VR projects based on GearVRf
+
+### For GearVRf details, please visit www.gearvrf.org
